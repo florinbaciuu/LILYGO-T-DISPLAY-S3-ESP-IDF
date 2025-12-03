@@ -21,9 +21,7 @@ add_compile_options(
 # Seteaza folder extra pt componente
 set(
    EXTRA_COMPONENT_DIRS
-   lib
    mylibs
-   cmd
 )
 
 # chestii generale ccache
